@@ -1,7 +1,7 @@
-package com.example.demo.mybatis;
+package com.example.demo.framework.orm.mybatis;
 
-import com.example.demo.mybatis.entity.UserInfo;
-import com.example.demo.mybatis.mapper.UserInfoMapper;
+import com.example.demo.framework.orm.mybatis.entity.UserInfo;
+import com.example.demo.framework.orm.mybatis.mapper.UserInfoMapper;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;

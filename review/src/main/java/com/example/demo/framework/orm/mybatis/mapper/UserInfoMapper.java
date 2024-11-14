@@ -1,6 +1,6 @@
-package com.example.demo.mybatis.mapper;
+package com.example.demo.framework.orm.mybatis.mapper;
 
-import com.example.demo.mybatis.entity.UserInfo;
+import com.example.demo.framework.orm.mybatis.entity.UserInfo;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;

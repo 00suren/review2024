@@ -3,7 +3,7 @@
         PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.example.demo.mybatis.mapper.UserInfoMapper">
-    <select id="selectUserInfoById" resultType="com.example.demo.mybatis.entity.UserInfo">
+    <select id="selectUserInfoById" resultType="com.example.demo.framework.orm.mybatis.entity.UserInfo">
 
     </select>
 </mapper>
